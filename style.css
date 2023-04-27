@@ -7,7 +7,7 @@ body {
   font-family: "Outfit", sans-serif;
 }
 
-.card {
+main {
   display: grid;
   text-align: center;
   background: hsl(0, 0%, 100%);
@@ -21,17 +21,17 @@ img {
   border-radius: 12px;
 }
 
-.card .content {
+main .content {
   margin: 15px 0px;
 }
 
-.card h1 {
+main h1 {
   font-size: 20px;
   color: hsl(218, 44%, 22%);
   font-weight: 700;
 }
 
-.card p {
+main p {
   font-size: 15px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
